@@ -1,0 +1,28 @@
+*{
+    /* margin: 0; */
+    /* padding: 0; */
+    box-sizing: border-box;
+    /* font-family: 'poppins', sans-serif; */
+}
+
+.container{
+    border: 1px solid black;
+    text-align: justify;
+    margin: 16px;
+    padding: 36px;
+}
+
+hr{
+    width: 80%;
+    border: none;
+    border-top: 2px solid black;
+    margin-right: 50%;
+}
+.heading{
+    color: green;
+    padding-top: 10px;
+}
+.subheading{
+    color: blue;
+}
+
